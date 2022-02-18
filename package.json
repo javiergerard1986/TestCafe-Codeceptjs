@@ -1,0 +1,16 @@
+{
+  "name": "codecept",
+  "version": "1.0.0",
+  "description": "This is a codeceptjs tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  },
+  "author": "Javier Gerard",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.3.0",
+    "prettier": "^2.5.1",
+    "testcafe": "^1.18.3"
+  }
+}
